@@ -9,7 +9,7 @@ heh = "/"
 mama = "("
 dada = ")"
 
-b = 0
+\nb = 0
 ba = 1
 baa = 2
 baaa = 3
